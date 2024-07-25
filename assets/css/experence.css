@@ -15,7 +15,7 @@
 .experence li .pediod::before{
     content: " ";
     display: inline-block; 
-    background-image: url('assets/imagem/icons/calendar.png');
+    background-image: url('https://github.com/ednaldo1901/portifolio/blob/main/assets/imagem/icons/calendar.png');
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
