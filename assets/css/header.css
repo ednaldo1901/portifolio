@@ -84,7 +84,7 @@
     cursor: pointer;
 }
 .information .gmail::before {
-    background-image: url('/assets/imagem/icons/gmail.png');
+    background-image: url('assets/imagem/icons/gmail.png');
 }
 
 @media only screen and (min-width: 768px) {
