@@ -27,7 +27,7 @@
 .portfolio li .title::before{
   content: " ";
   display: inline-block;
-  background-image: url('/assets/imagem/icons/github.png');
+  background-image: url('assets/imagem/icons/github.png');
   background-repeat: no-repeat;
   background-size: contain;
   width: 1rem;

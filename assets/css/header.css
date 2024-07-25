@@ -13,7 +13,7 @@
 
 .header::after{
     content: " ";
-    background-image: url('/assets/imagem/icons/tres-pontos.png');
+    background-image: url('assets/imagem/icons/tres-pontos.png');
     width: 24px;
     height: 24px;
     background-size: contain;
@@ -53,11 +53,11 @@
 }
 
 .information .job::before {
-    background-image: url('/assets/imagem/icons/junior.png');
+    background-image: url('assets/imagem/icons/junior.png');
 }
 
 .information .locacion::before {
-    background-image: url('/assets/imagem/icons/mapa.png');
+    background-image: url('assets/imagem/icons/mapa.png');
 }
 
 .information .phone a {
@@ -72,7 +72,7 @@
 
 
 .information .phone::before {
-    background-image: url('/assets/imagem/icons/whatsapp.png');
+    background-image: url('assets/imagem/icons/whatsapp.png');
 }
 
 .information .gmail a{
