@@ -41,7 +41,7 @@
 .acordeon .trigger::after {
     content: " ";
     display: inline-block;
-    background-image: url('assets/imagem/icons/chevron-direito.png');
+    background-image: url('https://raw.githubusercontent.com/ednaldo1901/portifolio/main/assets/imagem/icons/chevron-direito.png');
     width: 1.5rem;
     height: 1.5rem;
     background-size: contain;

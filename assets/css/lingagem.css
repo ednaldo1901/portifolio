@@ -21,7 +21,7 @@
 .languagen li::before{
     content: " ";
     display: inline-block;
-    background-image: url('assets/imagem/icons/checkmark.png');
+    background-image: url('https://raw.githubusercontent.com/ednaldo1901/portifolio/main/assets/imagem/icons/checkmark.png');
     background-repeat: no-repeat;
     background-size: contain;
     width: 1rem;
